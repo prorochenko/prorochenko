@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<iframe src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jr-justrocket-justrocketteam-CAIgh8LKFbIciGx5Qe">via GIPHY</a></p>
+<img src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/jr-justrocket-justrocketteam-CAIgh8LKFbIciGx5Qe">via GIPHY</a></p>](https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif)
 
 
 <!--
