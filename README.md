@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="200"/>
 </div>
 
-  - 	:handshake: I am a Full Stack Developer from Ukraine 🇺🇦
+  - :handshake: I am a Full Stack Developer from Ukraine 🇺🇦
   
   - :computer: I’m currently working with: 
 
