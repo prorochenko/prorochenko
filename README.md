@@ -4,6 +4,12 @@
 <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="200"/>
 </div>
 
+
+  <a href="https://www.linkedin.com/in/oleksandr-prorochenko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  
 <!--
 **prorochenko/prorochenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
