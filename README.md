@@ -14,7 +14,7 @@
 </div>
 
 
-  I am a Full Stack Developer from Ukraine.
+  I am a Full Stack Developer from Ukraine. 🇺🇦
   
 <!--
 
