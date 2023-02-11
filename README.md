@@ -4,16 +4,16 @@
 <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="200"/>
 </div>
 
-
+  <a href="https://t.me/apror">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/oleksandr-prorochenko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 
     
-      <a href="https://t.me/apror">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
   
   
 <!--
