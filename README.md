@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-
-<img src="https://giphy.com/embed/CAIgh8LKFbIciGx5Qe" width="480" height="391" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/jr-justrocket-justrocketteam-CAIgh8LKFbIciGx5Qe">via GIPHY</a></p>](https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif)
-
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
+</div>
 
 <!--
 **prorochenko/prorochenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
